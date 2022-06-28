@@ -1,0 +1,1 @@
+for i in `cat list`; do ./auto_ssh.sh root 'password密码' $i ; done
